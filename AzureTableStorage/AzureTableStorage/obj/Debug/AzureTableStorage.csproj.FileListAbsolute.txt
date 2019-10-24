@@ -1,0 +1,17 @@
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\AzureTableStorage.exe.config
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\AzureTableStorage.exe
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\AzureTableStorage.pdb
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\obj\Debug\AzureTableStorage.csprojAssemblyReference.cache
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\obj\Debug\AzureTableStorage.csproj.CoreCompileInputs.cache
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\obj\Debug\AzureTableStorage.csproj.CopyComplete
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\obj\Debug\AzureTableStorage.exe
+C:\Users\TVAKSA\source\repos\AzureTableStorage\AzureTableStorage\obj\Debug\AzureTableStorage.pdb
